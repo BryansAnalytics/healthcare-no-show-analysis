@@ -111,7 +111,7 @@ GROUP BY sex;
 (https://public.tableau.com/app/profile/brayan.altamirano/viz/MedicalDataset_17502057142410/Dashboard)  
 
 ### 📁 Excel Dataset
-[Download the Dataset (Excel)](healthcare_appointments_masterA.csv)
+[Download the Dataset (Excel)](healthcare_appointments_master_A.csv)
 
 
 
