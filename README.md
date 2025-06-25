@@ -105,6 +105,14 @@ FROM healthcare_appointments
 GROUP BY sex;
 ```
 ---
+## 📊 Tableau Dashboard
+[🔗 View the Dashboard on Tableau Public]
+(https://public.tableau.com/app/profile/brayan.altamirano/viz/MedicalDatasetKPIn2/KPIs)(https://public.tableau.com/app/profile/brayan.altamirano/viz/MedicalDatasetAppointmentMetrics/AppointmentMetrics) 
+(https://public.tableau.com/app/profile/brayan.altamirano/viz/MedicalDataset_17502057142410/Dashboard)  
 
-## 📌 Summary  
-This project demonstrates the use of SQL to uncover operational challenges in healthcare scheduling. By segmenting no-show patterns by age, gender, weekday, and hour, the analysis provides actionable insights for improving patient attendance and clinic efficiency.
+### 📁 Excel Dataset
+[Download the Dataset (Excel)](healthcare_appointments_masterA.csv)
+
+
+
+
